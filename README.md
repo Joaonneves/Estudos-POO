@@ -5,3 +5,13 @@ Sendo assim, todos os conceitos da POO (igualmente importantes) são baseados ne
 <p align ="center">
   <img = src ="https://user-images.githubusercontent.com/71905981/199631296-e176aad1-25f1-419e-93c6-c2ad713f1588.png"/>
 </p>
+
+## Algumas caracteristicas da orientação a objetos:
+
+1. [Herança](https://github.com/Joaonneves/Estudos-POO/blob/main/Heran%C3%A7a.md)
+
+2. [Polimorfismo]()
+
+3. [Encapsulamento]()
+
+4. [Abstração]()
