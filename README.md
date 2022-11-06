@@ -8,7 +8,7 @@ Sendo assim, todos os conceitos da POO (igualmente importantes) são baseados ne
 
 ## Algumas caracteristicas da orientação a objetos:
 
-1. [Herança](https://github.com/Joaonneves/Estudos-POO/blob/main/Heran%C3%A7a.md)
+1. [Herança](https://github.com/Joaonneves/Estudos-POO/blob/main/Pilares/Heran%C3%A7a.md)
 
 2. [Polimorfismo]()
 
